@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+httpx==0.24.0
+pyppeteer==1.0.2
+python-dotenv==1.0.0
+aiofiles==23.1.0
+pydantic==1.10.11
+icalendar==5.0.0
+pytz==2024.1
