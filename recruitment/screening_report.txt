@@ -1,0 +1,81 @@
+RESUME SCREENING REPORT
+============================================================
+
+Job Description: job_description.pdf
+Resume Folder: resumes/
+Candidates: 3
+
+**Hiring Report for Senior Python Developer Position at TechCorp Solutions**
+
+---
+
+### 1. DETAILED SCORES SECTION:
+
+| Candidate Name  | Technical Skills | Experience Level | Education Background | Communication Skills | Cultural Fit Potential | TOTAL SCORE | Overall Percentage |
+|------------------|------------------|------------------|----------------------|----------------------|-----------------------|-------------|-------------------|
+| Alice            | 10/10 (100%)     | 10/10 (100%)     | 9/10 (90%)           | 9/10 (90%)           | 9/10 (90%)             | 47/50       | 94%               |
+| Carol Davis      | 10/10 (100%)     | 10/10 (100%)     | 10/10 (100%)         | 10/10 (100%)         | 10/10 (100%)           | 50/50       | 100%              |
+| Bob              | 6/10 (60%)       | 5/10 (50%)       | 4/10 (40%)           | 7/10 (70%)           | 7/10 (70%)             | 29/50       | 58%               |
+
+#### Justifications for Each Score:
+- **Alice**: 
+  - **Technical Skills (100%)**: Over 6 years of relevant experience, strong in key frameworks (Django, Flask), and solid understanding of REST APIs and PostgreSQL.
+  - **Experience Level (100%)**: Recent role directly involved in senior development responsibilities.
+  - **Education Background (90%)**: B.S. in Computer Science with respectable GPA.
+  - **Communication Skills (90%)**: Clearly articulated experiences in her resume, indicating good team communication abilities.
+  - **Cultural Fit Potential (90%)**: Good mentorship experience and strong collaborative skills.
+  
+- **Carol Davis**: 
+  - **Technical Skills (100%)**: 8 years of experience with a comprehensive skill set directly aligned with job requirements.
+  - **Experience Level (100%)**: Extensive senior roles achieving significant technical responsibilities.
+  - **Education Background (100%)**: Holds both a Master’s and Bachelor’s from prestigious institutions with high GPAs.
+  - **Communication Skills (100%)**: Clear, concise, and well-organized resume.
+  - **Cultural Fit Potential (100%)**: Proven mentoring record and high collaboration indicators.
+
+- **Bob**: 
+  - **Technical Skills (60%)**: Three years in Python; lacking the required experience yet has some related skills.
+  - **Experience Level (50%)**: Underqualified for a senior position due to insufficient experience.
+  - **Education Background (40%)**: Associate Degree falls short of the Bachelor's requirement.
+  - **Communication Skills (70%)**: Decent communication evident in his resume presentation.
+  - **Cultural Fit Potential (70%)**: Enthusiasm for teamwork, but lacks mentorship experience.
+
+---
+
+### 2. RANKING SECTION:
+1. **Carol Davis**: 100%
+2. **Alice**: 94%
+3. **Bob**: 58%
+
+**Percentage Differences**:
+- Carol Davis vs. Alice: 6% difference
+- Alice vs. Bob: 36% difference
+
+---
+
+### 3. TOP RECOMMENDATIONS:
+1. **Carol Davis**
+   - **Key Strengths**: High technical expertise, excellent communication skills, proven mentorship experience, and a strong cultural fit.
+   - **Potential Concerns**: None evident based on available data.
+   - **Interview Focus Areas**: Deeper discussions on leadership experiences, system design, and architectural decisions.
+
+2. **Alice**
+   - **Key Strengths**: Solid technical skills, good cultural fit, strong communication abilities.
+   - **Potential Concerns**: May lack the breadth of experience compared to Carol.
+   - **Interview Focus Areas**: Examine hands-on project experiences and collaboration within Agile frameworks.
+
+3. **Bob**
+   - **Key Strengths**: Strong enthusiasm and good communication skills; shows potential for growth.
+   - **Potential Concerns**: Lacks the necessary experience and educational qualifications for the senior role.
+   - **Interview Focus Areas**: Understand his learning plans, exposure to Agile practices, and willingness to quickly upskill.
+
+---
+
+### 4. ANALYSIS SUMMARY:
+The candidate pool, evaluated for the Senior Python Developer role at TechCorp Solutions, presents a clear distinction between two highly qualified candidates and one underqualified candidate. Carol Davis stands out as the optimal choice with unmatched technical skills and experience. Alice follows closely, indicating a solid fit with some limitations in experience breadth. Bob, while showing potential, does not meet the core qualifications necessary for the senior position.
+
+**Hiring Recommendations and Next Steps**:
+- Proceed with an offer to **Carol Davis**.
+- Schedule a second-round interview for **Alice** to explore her fit further.
+- Consider feedback for **Bob** and potential future roles, encouraging him towards further professional development.
+
+This comprehensive analysis supports a focused and strategic hiring approach, ensuring that TechCorp Solutions secures top talent aligned with the organizational needs and culture.
